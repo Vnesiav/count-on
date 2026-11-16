@@ -1,0 +1,18 @@
+{
+  "name": "Count On",
+  "short_name": "Count On",
+  "description": "Pengeluaran dan tabungan bersama",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F4EF",
+  "theme_color": "#7FA894",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
